@@ -1,0 +1,13 @@
+bin/
+.venv/
+__pycache__/
+*.pyc
+logs/*.out
+logs/*.err
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+.DS_Store
+
